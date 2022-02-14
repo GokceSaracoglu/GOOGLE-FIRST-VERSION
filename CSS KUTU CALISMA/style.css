@@ -1,0 +1,64 @@
+.container {
+    width: 1300px;
+    margin: auto;
+}
+.img {
+   width: 351px;
+   margin: auto;
+}
+
+.kutuust {
+    background-color:rgb(248, 247, 247);
+    padding: 2px;
+    width: 1300px;
+    text-align: center;
+}
+
+.kutu {
+    width: 1304px;
+    margin-top: 2px;
+    text-align: center;
+    height: auto;
+    
+    
+}
+
+.kutu1 {
+    width: 394px;
+    margin-right: 2px;
+    padding: 2px;
+    height: 75px;
+    background-color:#7EE5DA;
+    float: left;
+ 
+    
+    }
+
+.kutu2 { 
+    width: 294px;
+    margin-right: 2px ;
+    padding: 2px;
+    height: 75px;
+    background-color: rgb(112, 204, 194);
+    float: left;
+    font-size: 13px;
+ 
+}
+
+.kutu3 {
+    width: 600px; 
+    font-size: 13px;
+    height: 75px;
+    padding: 2px;
+    background-color: rgb(98, 179, 170);
+    float: left;
+ 
+}
+
+.clear {
+    clear: both;
+    text-align: center;
+    font-size: 13px;
+    padding: 20px;
+}
+   
